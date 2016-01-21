@@ -1,0 +1,13 @@
+E:\workplace\pan.pdfreader\pan.pdfreader\bin\Debug\pan.pdfreader.exe.config
+E:\workplace\pan.pdfreader\pan.pdfreader\obj\Debug\pan.pdfreader.csprojResolveAssemblyReference.cache
+E:\workplace\pan.pdfreader\pan.pdfreader\obj\Debug\pan.pdfreader.Form1.resources
+E:\workplace\pan.pdfreader\pan.pdfreader\obj\Debug\pan.pdfreader.Properties.Resources.resources
+E:\workplace\pan.pdfreader\pan.pdfreader\obj\Debug\pan.pdfreader.csproj.GenerateResource.Cache
+E:\workplace\pan.pdfreader\pan.pdfreader\bin\Debug\pan.pdfreader.exe
+E:\workplace\pan.pdfreader\pan.pdfreader\bin\Debug\pan.pdfreader.pdb
+E:\workplace\pan.pdfreader\pan.pdfreader\bin\Debug\itextsharp.dll
+E:\workplace\pan.pdfreader\pan.pdfreader\bin\Debug\itextsharp.pdfa.dll
+E:\workplace\pan.pdfreader\pan.pdfreader\bin\Debug\itextsharp.xtra.dll
+E:\workplace\pan.pdfreader\pan.pdfreader\bin\Debug\itextsharp.xml
+E:\workplace\pan.pdfreader\pan.pdfreader\obj\Debug\pan.pdfreader.exe
+E:\workplace\pan.pdfreader\pan.pdfreader\obj\Debug\pan.pdfreader.pdb

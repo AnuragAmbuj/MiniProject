@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PANDORA_TRIDENT_SURFER.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DockPanelInParent" Type="System.Windows.Forms.DockStyle" Scope="User">
+      <Value Profile="(Default)">Fill</Value>
+    </Setting>
+    <Setting Name="AmbujDownRightUnder" Type="System.Windows.Forms.AnchorStyles" Scope="User">
+      <Value Profile="(Default)">Bottom, Right</Value>
+    </Setting>
+    <Setting Name="AmbujInteriorComponentRight" Type="System.Windows.Forms.AnchorStyles" Scope="Application">
+      <Value Profile="(Default)">Right</Value>
+    </Setting>
+    <Setting Name="DockRIght" Type="System.Windows.Forms.DockStyle" Scope="User">
+      <Value Profile="(Default)">Right</Value>
+    </Setting>
+    <Setting Name="Enabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">ActiveCaptionText</Value>
+    </Setting>
+    <Setting Name="MiddleRight" Type="System.Drawing.ContentAlignment" Scope="Application">
+      <Value Profile="(Default)">MiddleRight</Value>
+    </Setting>
+    <Setting Name="addressBoxToolTip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Enter URL Here</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

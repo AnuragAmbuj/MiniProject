@@ -1,0 +1,9 @@
+E:\workplace\wincalc\wincalc\bin\Debug\wincalc.exe.config
+E:\workplace\wincalc\wincalc\bin\Debug\wincalc.exe
+E:\workplace\wincalc\wincalc\bin\Debug\wincalc.pdb
+E:\workplace\wincalc\wincalc\obj\Debug\wincalc.csprojResolveAssemblyReference.cache
+E:\workplace\wincalc\wincalc\obj\Debug\wincalc.Form1.resources
+E:\workplace\wincalc\wincalc\obj\Debug\wincalc.Properties.Resources.resources
+E:\workplace\wincalc\wincalc\obj\Debug\wincalc.csproj.GenerateResource.Cache
+E:\workplace\wincalc\wincalc\obj\Debug\wincalc.exe
+E:\workplace\wincalc\wincalc\obj\Debug\wincalc.pdb
